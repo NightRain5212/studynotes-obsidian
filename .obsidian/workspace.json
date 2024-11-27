@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "1fe1edf319c32050",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a58307da83e2576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56064d27810317e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CS61b/countsort.png"
+              },
+              "icon": "lucide-image",
+              "title": "countsort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4af386c6ff32423",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b344871d96ca187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "755bbeffa39b014d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "adec54eb46533ad7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#define",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "82afd70f16ab4cb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "20020d3bfe042eb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be5831d1d889db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa1891425e5e593a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS61b/Week2--SLList.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Week2--SLList 的反向链接列表"
+            }
+          },
+          {
+            "id": "1a7f636248b61b48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS61b/Week7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Week7 的出链列表"
+            }
+          },
+          {
+            "id": "e4c87c11b9966ac4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f8e102a708b456e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS61b/Week2--SLList.md"
+              },
+              "icon": "lucide-list",
+              "title": "Week2--SLList 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c56064d27810317e",
+  "lastOpenFiles": [
+    "CS61b/Week11.md",
+    "CS61b/summary1.png",
+    "CS61b/summary3.png",
+    "CS61b/summary2.png",
+    "CS61b/Week9.md",
+    "1732543142038.png",
+    "1732543124636.png",
+    "1732543097958.png",
+    "CS61b/Week10.md",
+    "CS61b/Trie 1.png",
+    "CS61b/Trie.png",
+    "CS61b/MSD.png",
+    "CS61b/LSD.png",
+    "CS61b/Week8.md",
+    "Summary writing.md",
+    "TODO.canvas",
+    "Linux/WSL-Arch配置.md",
+    "Linux.md",
+    "C/数组.md",
+    "C++/基础/数组.md",
+    "C++/基础/指针.md",
+    "CS61b/记录与总结~Gitlet完结.md",
+    "记录与总结~Gitlet完结.md",
+    "MCM/信息获取.md",
+    "MCM/初识.md",
+    "MCM/一些套路.md",
+    "算法/排序.md",
+    "C++/基础/运算符重载.md",
+    "CS61b/梦开始的地方-CS61b.md",
+    "CS61b/Week1--Java基础.md",
+    "CS61b/Week5.md",
+    "CS61b/Week6.md",
+    "CS61b/Week4.md",
+    "CS61b/Week7.md",
+    "LinearAlgebra/Matrix.md",
+    "LinearAlgebra/Matrix - 副本.md",
+    "Logic",
+    "LinearAlgebra",
+    "Latex",
+    "Linux",
+    "MCM",
+    "vim",
+    "CS61b",
+    "CS61abc/CS61a",
+    "CS61abc",
+    "Git"
+  ]
+}
