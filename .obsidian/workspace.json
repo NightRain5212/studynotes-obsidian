@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a58307da83e2576",
+        "id": "14256922f6f18ca4",
         "type": "tabs",
         "children": [
           {
-            "id": "c56064d27810317e",
+            "id": "3232d5956750e46c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CS61b/countsort.png"
+                "file": "LinearAlgebra/向量与向量组.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "countsort"
+              "icon": "lucide-file",
+              "title": "向量与向量组"
             }
           }
         ]
@@ -162,8 +164,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c56064d27810317e",
+  "active": "755bbeffa39b014d",
   "lastOpenFiles": [
+    "LinearAlgebra/向量与向量组.md",
+    "CS61b/countsort.png",
     "CS61b/Week11.md",
     "CS61b/summary1.png",
     "CS61b/summary3.png",
@@ -176,7 +180,6 @@
     "CS61b/Trie 1.png",
     "CS61b/Trie.png",
     "CS61b/MSD.png",
-    "CS61b/LSD.png",
     "CS61b/Week8.md",
     "Summary writing.md",
     "TODO.canvas",
